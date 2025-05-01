@@ -1,0 +1,25 @@
+{
+    "next_record_id": 13,
+    "records": {
+        "7": {
+            "car_model": "BMW",
+            "service_type": "замена масла",
+            "owner_name": "Алексей"
+        },
+        "9": {
+            "car_model": "bmw",
+            "service_type": "Мотор",
+            "owner_name": "Глеб"
+        },
+        "10": {
+            "car_model": "Nissan",
+            "service_type": "Покраска",
+            "owner_name": "Иван"
+        },
+        "11": {
+            "car_model": "Lada",
+            "service_type": "Замена фар",
+            "owner_name": "Никита"
+        }
+    }
+}
